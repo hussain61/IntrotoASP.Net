@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroductiontoASP.NET", "IntroductiontoASP.NET\IntroductiontoASP.NET.csproj", "{FD66AB9B-7074-4AE2-9F79-564DD2B692CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericText", "NumericText\NumericText.csproj", "{DB71E445-B269-4734-9C4F-42D259562C02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD66AB9B-7074-4AE2-9F79-564DD2B692CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD66AB9B-7074-4AE2-9F79-564DD2B692CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD66AB9B-7074-4AE2-9F79-564DD2B692CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD66AB9B-7074-4AE2-9F79-564DD2B692CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB71E445-B269-4734-9C4F-42D259562C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB71E445-B269-4734-9C4F-42D259562C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB71E445-B269-4734-9C4F-42D259562C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB71E445-B269-4734-9C4F-42D259562C02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0D5B4B3-B791-4236-9329-AECB68A3979E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\work\Workfolder\Practice\IntroductiontoASP.NET\NumericText\bin\Debug\NumericText.dll
+D:\work\Workfolder\Practice\IntroductiontoASP.NET\NumericText\bin\Debug\NumericText.pdb
+D:\work\Workfolder\Practice\IntroductiontoASP.NET\NumericText\obj\Debug\NumericText.csprojAssemblyReference.cache
+D:\work\Workfolder\Practice\IntroductiontoASP.NET\NumericText\obj\Debug\NumericText.csproj.CoreCompileInputs.cache
+D:\work\Workfolder\Practice\IntroductiontoASP.NET\NumericText\obj\Debug\NumericText.dll
+D:\work\Workfolder\Practice\IntroductiontoASP.NET\NumericText\obj\Debug\NumericText.pdb
